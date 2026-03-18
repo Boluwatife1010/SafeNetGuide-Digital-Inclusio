@@ -4,6 +4,12 @@ SafeNet Guide – Digital Inclusion Through Cybersecurity Awareness
 
 SafeNet Guide is a digital inclusion platform designed to help individuals safely navigate the internet by providing essential cybersecurity awareness and digital literacy education.
 
+link to live Demo: https://safenetguide.lovable.app
+
+![Safenet Homepage](https://github.com/user-attachments/assets/ad760a33-312f-4805-a929-f508cd7e0536) 
+![Safenet Feature 2](https://github.com/user-attachments/assets/f7dfb226-b2d4-4d25-aa74-69335ae28d3a)
+
+
 Problem
 
 As more people gain access to the internet and digital services, many lack the knowledge required to identify online threats such as phishing messages, fraudulent links, fake job offers, and online scams. This knowledge gap exposes individuals to cyber risks and prevents them from confidently participating in the digital economy.
@@ -40,10 +46,15 @@ Technology
 
 This prototype was built using modern AI-assisted web development tools to demonstrate a simple and accessible cybersecurity awareness platform.
 
-![SafeNet Homepa![SafeNet feature 1](https://github.com/user-attachments/assets/229446f1-533e-4f85-a61c-9e45e918923f)
-ge](https://github.com/user-attachments/assets/18e9c0a5-e0a3-4451-87e2-8d60adcc1b9c)
-![SafeNet feature 3](https://github.com/user-attachments/assets/136bc08a-9eee-4bf3-8b3f-d9376c126ad7)
-![safeNet feature 4](https://github.com/user-attachments/assets/fd24b1a1-f830-42e0-bef3-bc773d9beec5)
-![SafeNet feature 5](https://github.com/user-attachments/assets/67fe6ac7-8b84-4f69-93ee-9c832e860d2b)
-![safeNet future vision](https://github.com/user-attachments/assets/6a7d3966-7ea8-4e0a-804f-7eccc2cbf866)
-![safeNet future vision](https://github.com/user-attachments/assets/1dc226aa-dd7c-4e07-96b9-28c0b634f2ff)
+![Safenet feature1](https://github.com/user-attachments/assets/1e4efe17-0f38-413f-b9a1-f8b0fbf2a6ff)
+![Safenet Feature 10](https://github.com/user-attachments/assets/256ca0cb-34a2-45b3-97e6-90f47408b2b3)
+![Safenet Feature 9](https://github.com/user-attachments/assets/0648130b-9e28-4c2e-a633-3dc9638e9452)
+![Safenet Feature 8](https://github.com/user-attachments/assets/243347fe-c54a-4f7a-8a9a-0ab0e2f42a7d)
+![Safenet Feature 7](https://github.com/user-attachments/assets/023a9f88-e48e-4d57-878f-37d8a684c625)
+![Safenet Feature 6](https://github.com/user-attachments/assets/0e18b886-f1b9-4334-bffb-de296c0736ae)
+![Safenet Feature 5](https://github.com/user-attachments/assets/6e1daadd-533a-4a02-8c3a-8576d7822c90)
+![Safenet Feature 4](https://github.com/user-attachments/assets/032a5fe0-61d1-4b24-8b86-f35bca981062)
+![Safenet Feature 3](https://github.com/user-attachments/assets/22d6ab51-f2f0-464c-b0b8-908dad875483)
+![Safenet Feature 2](https://github.com/user-attachments/assets/b98820a7-c329-4438-bee1-7dda0f260dab)
+
+
