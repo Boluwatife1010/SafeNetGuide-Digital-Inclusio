@@ -10,17 +10,21 @@ link to live Demo: https://safenetguide.lovable.app
 ![Safenet Feature 2](https://github.com/user-attachments/assets/f7dfb226-b2d4-4d25-aa74-69335ae28d3a)
 
 
-Problem
+PROBLEMS
 
-As more people gain access to the internet and digital services, many lack the knowledge required to identify online threats such as phishing messages, fraudulent links, fake job offers, and online scams. This knowledge gap exposes individuals to cyber risks and prevents them from confidently participating in the digital economy.
+As more people in Kaduna and beyound gain access to the internet and digital services, many lack the knowledge required to identify online threats such as phishing messages, fraudulent links, fake job offers, and online scams. This knowledge gap exposes individuals to cyber risks and prevents them from confidently participating in the digital economy.
 
-Solution
+SOLUTION
 
-SafeNet Guide addresses this challenge by providing an easy-to-use platform that teaches users how to protect themselves online. The platform delivers beginner-friendly cybersecurity lessons, digital safety tips, and guidance on using online services securely.
+SafeNet Guide addresses this challenge by:
+* Providing an easy-to-use platform that teaches users how to protect themselves online.
+* The platform delivers beginner-friendly cybersecurity lessons,
+* Digital safety tips, and
+* Guidance on using online services securely.
 
 The goal is to empower users with the knowledge needed to identify potential cyber threats and make safer decisions when interacting with digital platforms.
 
-Key Features
+KEY FEATURES
 
 1. Digital Safety Lessons
 The platform provides simple educational content that teaches users how to recognize phishing attempts, create strong passwords, and identify suspicious online behavior.
@@ -34,15 +38,18 @@ SafeNet Guide also helps beginners understand how to safely use important online
 4. Cybersecurity Awareness Tips
 The platform offers quick and practical cybersecurity tips that help users avoid common online threats.
 
-Impact
+IMPACT
 
 SafeNet Guide contributes to digital inclusion by helping individuals develop the knowledge and confidence needed to safely participate in the digital economy. By improving cybersecurity awareness and digital literacy, the platform aims to reduce online fraud and protect users from common cyber threats.
 
-Future Improvements
+FUTURE IMPROVEMENTS
 
-Future development of SafeNet Guide may include local language support, AI-powered scam detection, and partnerships with community organizations to expand digital safety education.
+Future development of SafeNet Guide may include:
+* local language support,
+* AI-powered scam detection, and
+* partnerships with community organizations to expand digital safety education.
 
-Technology
+TECHNOLOGY
 
 This prototype was built using modern AI-assisted web development tools to demonstrate a simple and accessible cybersecurity awareness platform.
 
@@ -57,4 +64,9 @@ This prototype was built using modern AI-assisted web development tools to demon
 ![Safenet Feature 3](https://github.com/user-attachments/assets/22d6ab51-f2f0-464c-b0b8-908dad875483)
 ![Safenet Feature 2](https://github.com/user-attachments/assets/b98820a7-c329-4438-bee1-7dda0f260dab)
 
+DEVELOPER
+
+ONILUDE, Sulaiman Boluwatife
+
+3MTT Cybersecurity Track
 
