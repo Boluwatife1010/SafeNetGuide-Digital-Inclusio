@@ -1,16 +1,15 @@
-# SafeNetGuide-Digital-Inclusio
-SafeNet Guide is a digital inclusion platform designed to help people in Nigeria learn how to use the internet safely and avoid online scams.  The platform provides simple cybersecurity lessons, scam detection awareness, and beginner digital skills tutorials.
-SafeNet Guide – Digital Inclusion Through Cybersecurity Awareness
+# SafeNetGuide-Digital-Inclusion Through Cybersecurity Awareness
+SafeNet Guide is a digital inclusion platform designed to help people in Kaduna State, Nigeria and beyound to learn how to use the internet safely and avoid online scams.  The platform provides simple cybersecurity lessons, scam detection awareness, and beginner digital skills tutorials.
 
 SafeNet Guide is a digital inclusion platform designed to help individuals safely navigate the internet by providing essential cybersecurity awareness and digital literacy education.
 
-link to live Demo: https://safenetguide.lovable.app
+link to live Demo App: https://safenetguide.lovable.app
 
 ![Safenet Homepage](https://github.com/user-attachments/assets/ad760a33-312f-4805-a929-f508cd7e0536) 
 ![Safenet Feature 2](https://github.com/user-attachments/assets/f7dfb226-b2d4-4d25-aa74-69335ae28d3a)
 
 
-PROBLEMS
+PROBLEM
 
 As more people in Kaduna and beyound gain access to the internet and digital services, many lack the knowledge required to identify online threats such as phishing messages, fraudulent links, fake job offers, and online scams. This knowledge gap exposes individuals to cyber risks and prevents them from confidently participating in the digital economy.
 
@@ -45,7 +44,7 @@ SafeNet Guide contributes to digital inclusion by helping individuals develop th
 FUTURE IMPROVEMENTS
 
 Future development of SafeNet Guide may include:
-* local language support,
+* local language support, e.g, Hausa
 * AI-powered scam detection, and
 * partnerships with community organizations to expand digital safety education.
 
